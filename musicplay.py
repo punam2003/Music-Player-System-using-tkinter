@@ -180,6 +180,7 @@ class Player(tk.Frame):
 
 	def change_volume(self, event=None):
 		self.v = self.volume.get()
+		
 		mixer.music.set_volume(self.v / 10)
 
 # ----------------------------- Main -------------------------------------------
