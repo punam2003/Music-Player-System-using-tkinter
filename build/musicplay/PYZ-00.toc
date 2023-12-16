@@ -1,4 +1,4 @@
-('C:\\Users\\Pushkar Deore\\OneDrive\\Desktop\\python '
+('C:\\Users\\Pushkar Deore\\OneDrive\\Desktop\\Nodvember\\python '
  'TA3\\build\\musicplay\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\Pushkar '
